@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\programs\Visual Studio Projects\RouteBuilder\RouteBuilder\main.cpp(142,63): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\programs\Visual Studio Projects\RouteBuilder\RouteBuilder\main.cpp(146,69): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\programs\Visual Studio Projects\RouteBuilder\RouteBuilder\main.cpp(150,73): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\programs\Visual Studio Projects\RouteBuilder\RouteBuilder\main.cpp(189,13): warning C4101: stationDestinationNumber: неиспользованная локальная переменная
+C:\programs\Visual Studio Projects\RouteBuilder\RouteBuilder\main.cpp(188,13): warning C4101: stationLocationNumber: неиспользованная локальная переменная
+C:\programs\Visual Studio Projects\RouteBuilder\RouteBuilder\main.cpp(116): warning C4715: moving: значение возвращается не при всех путях выполнения
+C:\programs\Visual Studio Projects\h_library\service.h(72): warning C4715: service::continuation: значение возвращается не при всех путях выполнения
+  RouteBuilder.vcxproj -> C:\programs\Visual Studio Projects\RouteBuilder\x64\Debug\RouteBuilder.exe
